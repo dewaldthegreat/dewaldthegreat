@@ -36,6 +36,12 @@ I use my homelab as a practical environment for learning, testing, troubleshooti
 - **Jellyfin** — self-hosted media
 - **Sunshine & Moonlight** — local game and desktop streaming
 
+## 🚀 Featured Project
+
+### [🏠 Homelab Documentation](https://github.com/dewaldthegreat/homelab)
+
+A public, sanitized record of my real Proxmox homelab, including its VM/LXC layout, networking, storage, self-hosted services, monitoring, home automation, and the things I learn while operating it.
+
 ## 🔧 Areas I'm Interested In
 
 - 🖥️ Homelab infrastructure
