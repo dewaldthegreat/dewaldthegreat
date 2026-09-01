@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.svg" alt="Dewald van Stryp - Aspiring IT Support Technician" width="100%" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Dewald
