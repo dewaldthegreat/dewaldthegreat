@@ -4,15 +4,17 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Dewald
+# 👋 Dewald van Stryp
 
 ### Aspiring IT Support Technician • Homelab • Linux • Proxmox • Networking • PC Hardware
 
-I build, maintain, and experiment with my own homelab to gain hands-on experience with infrastructure, virtualization, networking, self-hosting, and troubleshooting.
+I'm an aspiring IT Support Technician based in Pretoria, South Africa. I build, maintain, and troubleshoot my own homelab to gain hands-on experience with Windows, Linux, networking, virtualization, self-hosting, PC hardware, and practical IT support.
 
 🎓 **Currently studying:** CompTIA A+ Core 1 & Core 2
 
 🌐 **Portfolio:** [dewaldvanstryp.github.io](https://dewaldvanstryp.github.io/)
+
+💼 **LinkedIn:** [Dewald van Stryp](https://www.linkedin.com/in/dewald-van-stryp-269820373/)
 
 📧 **Email:** [dewaldvanstryp.it@gmail.com](mailto:dewaldvanstryp.it@gmail.com)
 
@@ -50,7 +52,7 @@ I use my homelab as a practical environment for learning, testing, troubleshooti
 
 ### [🏠 Homelab Documentation](https://github.com/dewaldvanstryp/homelab)
 
-A public, sanitized record of my real Proxmox homelab, including its VM/LXC layout, networking, storage, self-hosted services, monitoring, home automation, and the things I learn while operating it.
+A public, sanitized record of my real Proxmox homelab, including its VM/LXC layout, networking, storage, self-hosted services, monitoring, home automation, troubleshooting case studies, and the things I learn while operating it.
 
 ## 🔧 Areas I'm Interested In
 
