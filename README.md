@@ -12,6 +12,8 @@ I build, maintain, and experiment with my own homelab to gain hands-on experienc
 
 🎓 **Currently studying:** CompTIA A+ Core 1 & Core 2
 
+🌐 **Portfolio:** [dewaldvanstryp.github.io](https://dewaldvanstryp.github.io/)
+
 </div>
 
 ## 🧰 Homelab Stack
