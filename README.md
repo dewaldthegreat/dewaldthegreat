@@ -6,9 +6,11 @@
 
 # 👋 Hi, I'm Dewald
 
-### Homelab Enthusiast • Linux • Proxmox • Networking • PC Hardware
+### Aspiring IT Support Technician • Homelab • Linux • Proxmox • Networking • PC Hardware
 
 I build, maintain, and experiment with my own homelab to gain hands-on experience with infrastructure, virtualization, networking, self-hosting, and troubleshooting.
+
+🎓 **Currently studying:** CompTIA A+ Core 1 & Core 2
 
 </div>
 
@@ -42,13 +44,14 @@ I use my homelab as a practical environment for learning, testing, troubleshooti
 
 ## 🚀 Featured Project
 
-### [🏠 Homelab Documentation](https://github.com/dewaldthegreat/homelab)
+### [🏠 Homelab Documentation](https://github.com/dewaldvanstryp/homelab)
 
 A public, sanitized record of my real Proxmox homelab, including its VM/LXC layout, networking, storage, self-hosted services, monitoring, home automation, and the things I learn while operating it.
 
 ## 🔧 Areas I'm Interested In
 
-- 🖥️ Homelab infrastructure
+- 🖥️ IT support and help desk
+- 🏠 Homelab infrastructure
 - 🌐 Networking
 - 🐧 Linux
 - 📦 Virtualization and containers
@@ -61,6 +64,7 @@ A public, sanitized record of my real Proxmox homelab, including its VM/LXC layo
 
 I'm continuously expanding my hands-on knowledge of:
 
+- CompTIA A+ Core 1 & Core 2
 - Linux administration
 - Networking
 - Proxmox and virtualization
