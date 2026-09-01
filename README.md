@@ -14,6 +14,8 @@ I build, maintain, and experiment with my own homelab to gain hands-on experienc
 
 🌐 **Portfolio:** [dewaldvanstryp.github.io](https://dewaldvanstryp.github.io/)
 
+📧 **Email:** [dewaldvanstryp.it@gmail.com](mailto:dewaldvanstryp.it@gmail.com)
+
 </div>
 
 ## 🧰 Homelab Stack
